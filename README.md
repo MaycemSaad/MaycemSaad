@@ -16,22 +16,6 @@
 
 ---
 
-### 🚀 Featured Projects
-
-#### 💼 ActuarialMind – Intelligent RAG Platform
-> AI-powered tool for actuarial and financial report analysis using Sentence-BERT, FAISS, and LLMs.
-
-#### 🧾 Due Diligence – Automated Document Analysis
-> NLP + LangChain + Streamlit app for financial document scoring and automatic PowerPoint report generation.
-
-#### 📈 ESG Analytics Platform – Internship @ Value
-> Extraction and benchmarking of ESG data using NLP and PDF automation pipelines (Python, PyTesseract, Regex).
-
-#### 🩺 AI Doctor
-> Medical chatbot built with **Rasa**, **NextJS**, and **NestJS** for intelligent e-health recommendations.
-
----
-
 ### 🧰 Tech Stack
 
 #### 💻 Programming Languages
