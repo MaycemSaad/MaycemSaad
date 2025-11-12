@@ -3,7 +3,7 @@
 <p align="center">
 🎓 <b>Computer Engineering Student</b> specializing in <b>Data Science & Actuarial Engineering</b><br>
 💼 Double Degree – <b>ESPRIT (Tunisia)</b> × <b>Université du Mans (France)</b><br>
-📅 Looking for a <b>final-year internship (PFE)</b> starting <b>January 2026</b>
+📅 Looking for a <b>final-year internship (PFE)</b> starting <b>February 2026</b>
 </p>
 
 ---
