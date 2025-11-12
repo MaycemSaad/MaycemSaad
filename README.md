@@ -46,15 +46,7 @@
   <img src="https://img.shields.io/badge/Tableau-%23E97627.svg?&style=for-the-badge&logo=tableau&logoColor=white"/>
   <img src="https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?&style=for-the-badge&logo=streamlit&logoColor=white"/>
   <img src="https://img.shields.io/badge/Dash-%23000000.svg?&style=for-the-badge&logo=plotly&logoColor=white"/>
-</p>
-
----
-
-### 🏆 Certifications
-🎓 NVIDIA – Fundamentals of Deep Learning  
-🎓 Introduction to Transformer-Based NLP  
-🎓 Generative AI with Diffusion Models  
-🎓 Power BI | AWS Cloud Foundations  
+</p> 
 
 ---
 
