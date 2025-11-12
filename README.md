@@ -16,37 +16,42 @@
 
 ---
 
-### 🧰 Tech Stack
+### 🧰 Tools I've used before:
 
-#### 💻 Programming Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,java,cpp,js,typescript,php,html,css" />
+
+<!-- Bloc 1 -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50" height="50"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" width="70" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="50" height="50"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Grafana_logo.svg" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" height="50"/>
+
+<br><br>
+
+<!-- Bloc 2 -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/symfony/symfony-original.svg" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg" width="50" height="50"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/63/PowerShell_5.0_icon.png" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="50" height="50"/>
 </p>
 
-#### 🧮 Data Science & AI
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv" />
-  <img src="https://img.shields.io/badge/LLMs-LangChain-blue?style=flat-square&logo=openai" />
-  <img src="https://img.shields.io/badge/NLP-Transformers-green?style=flat-square&logo=huggingface" />
-</p>
-
-#### 🗄️ Databases & Big Data
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql,hadoop,spark" />
-</p>
-
-#### 🌐 Web Development
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flask,fastapi,symfony,nodejs,nextjs,nestjs,react,dash" />
-</p>
-
-#### 📊 Visualization & BI
-<p align="center">
-  <img src="https://img.shields.io/badge/PowerBI-%23F2C811.svg?&style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Tableau-%23E97627.svg?&style=for-the-badge&logo=tableau&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?&style=for-the-badge&logo=streamlit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dash-%23000000.svg?&style=for-the-badge&logo=plotly&logoColor=white"/>
-</p> 
 
 ---
 
