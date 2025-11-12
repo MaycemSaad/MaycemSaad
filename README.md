@@ -50,7 +50,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg" width="50" height="50"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/63/PowerShell_5.0_icon.png" width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="50" height="50"/>
 
 </div>
